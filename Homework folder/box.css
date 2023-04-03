@@ -52,8 +52,7 @@ h3{
 
 #footer{
 
-    background-color: rgb(255, 246, 225);
-    width: 70%;
+    background-color: transparent;
     margin: auto;
     display: flex;
     
@@ -63,18 +62,20 @@ h3{
 #elements{
     display: block;
     padding: 15px 20px;
+    margin: auto;
     
 
 }
 
 #gmail{
-    width: 30%;
-
+    width: 50px;
+    
 }
 #twt{
-    width: 30%;
+    width: 50px;
 }
 
 #insta{
-    width: 30%;
+    width: 50px;
+    
 }
